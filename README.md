@@ -12,12 +12,12 @@ Internet access
 
 # how to install:
 
-# Clone the repository
+Clone the repository
 
-# Enter the project directory
+Enter the project directory:
 cd Weather-Detector
 
 
 # how to use:
-# Start the development server
+//Start the development server
 python manage.py runserver
